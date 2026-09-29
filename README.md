@@ -1,7 +1,7 @@
 # TAC 365 HW03 - Fall 2026 #
 
 ## Student information: ##
-Heroes Homework
+Money Homework
 
 Name: Jay Adegoke
 
